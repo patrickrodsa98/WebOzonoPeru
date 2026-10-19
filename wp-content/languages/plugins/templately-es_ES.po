@@ -1,0 +1,876 @@
+# Translation of Plugins - Templately – Elementor &amp; Gutenberg Template Library: 6500+ Free &amp; Pro Ready Templates And Cloud! - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Templately – Elementor &amp; Gutenberg Template Library: 6500+ Free &amp; Pro Ready Templates And Cloud! - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-10-02 09:09:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Templately – Elementor &amp; Gutenberg Template Library: 6500+ Free &amp; Pro Ready Templates And Cloud! - Stable (latest release)\n"
+
+#: modules/theme-builder/Source.php:167 assets/js/templately.js:19
+msgid "Active"
+msgstr "Activo"
+
+#: modules/auth/REST/Login.php:306
+msgid "You are not connected to Templately."
+msgstr "No estás conectado a Templately."
+
+#: modules/ai-fsi/REST/AIContent.php:1865
+msgid "Failed to save generated content."
+msgstr "Error al guardar el contenido generado."
+
+#: modules/ai-fsi/REST/AIContent.php:1714
+msgid "Your free access to this generated site has ended. Upgrade your plan or purchase this template to import it."
+msgstr "Tu acceso gratuito a este sitio generado ha finalizado. Actualiza tu plan o compra esta plantilla para importarla."
+
+#: modules/ai-fsi/REST/AIContent.php:1646
+msgid "Invalid AI page IDs."
+msgstr "IDs de página de IA no válidos."
+
+#: modules/ai-fsi/REST/AIContent.php:1632
+msgid "Invalid session ID."
+msgstr "ID de sesión no válido."
+
+#: modules/ai-fsi/REST/AIContent.php:1531
+msgid "Failed to record import."
+msgstr "Error al registrar la importación."
+
+#: modules/ai-fsi/REST/AIContent.php:1501
+msgid "Failed to update detected info."
+msgstr "Error al actualizar la información detectada."
+
+#: modules/ai-fsi/REST/AIContent.php:1411
+#: modules/ai-fsi/REST/AIContent.php:1679 assets/js/templately.js:2
+msgid "Failed to fetch generated content."
+msgstr "Error al obtener el contenido generado."
+
+#: modules/full-site-import/Runners/CustomCSS.php:39
+msgid "Importing custom CSS."
+msgstr "Importando CSS personalizado."
+
+#: modules/full-site-import/Runners/CustomCSS.php:27 assets/js/templately.js:17
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: modules/theme-builder/Widgets/Post_Comments.php:1170
+#: assets/js/deactivation-survey.js:1 assets/js/templately.js:1
+#: assets/js/templately.js:14 assets/js/templately.js:17
+#: assets/js/templately.js:31
+msgid "Name"
+msgstr "Nombre"
+
+#: modules/theme-builder/Types/DocsSingle.php:15
+msgid "Docs Single"
+msgstr "Documento individual"
+
+#: modules/theme-builder/Types/DocsSingle.php:11
+msgid "Doc Single"
+msgstr "Documento individual"
+
+#: modules/theme-builder/Types/DocsArchive.php:15
+msgid "Docs Archives"
+msgstr "Archivos de documentos"
+
+#: modules/theme-builder/Types/DocsArchive.php:11
+msgid "Doc Archive"
+msgstr "Archivo de documentos"
+
+#: modules/template-details/REST/Checkout.php:91
+msgid "Could not start the checkout. Please try again."
+msgstr "No se pudo iniciar el pago. Inténtalo de nuevo."
+
+#: modules/template-details/REST/Checkout.php:49
+msgid "No item selected for purchase."
+msgstr "No se ha seleccionado ningún elemento para comprar."
+
+#: includes/API/API.php:202 includes/Utils/Response/ErrorCode.php:214
+msgid "Your session has expired. Please log in again."
+msgstr "Tu sesión ha caducado. Inicia sesión de nuevo."
+
+#: modules/ai-fsi/REST/AIContent.php:1242
+msgid "Failed to fetch conversation."
+msgstr "Error al obtener la conversación."
+
+#: modules/ai-fsi/REST/AIContent.php:1238
+#: modules/ai-fsi/REST/AIContent.php:1402
+#: modules/ai-fsi/REST/AIContent.php:1483
+#: modules/ai-fsi/REST/AIContent.php:1521
+#: modules/ai-fsi/REST/AIContent.php:1628
+msgid "Invalid conversation ID."
+msgstr "ID de conversación no válido."
+
+#: includes/Core/Admin.php:503
+msgid "Upgrade To Pro Now"
+msgstr "Actualizar a Pro ahora"
+
+#: modules/library-tour/REST/Tour.php:76
+msgid "tour_key is required."
+msgstr "tour_key es obligatorio."
+
+#: modules/ai-fsi/REST/AIContent.php:1333
+#: modules/full-site-import/Concerns/HandlesSession.php:70
+#: modules/full-site-import/Concerns/RunsImport.php:131
+msgid "Your site connection is disconnected. Please migrate your connection first."
+msgstr "La conexión de tu sitio está desconectada. Primero migra tu conexión."
+
+#: modules/theme-builder/Widgets/Post_Comments.php:310
+#: modules/theme-builder/Widgets/Post_Comments.php:602
+#: modules/theme-builder/Widgets/Post_Comments.php:690
+#: modules/theme-builder/Widgets/Post_Comments.php:818
+#: modules/theme-builder/Widgets/Post_Comments.php:849
+#: assets/js/templately.js:2 assets/js/templately.js:13
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: modules/full-site-import/Utils/AIUtils.php:297
+msgid "API returned an error response."
+msgstr "La API devolvió una respuesta de error."
+
+#: includes/API/Sites.php:96
+msgid "Site successfully migrated. You can now import templates."
+msgstr "Sitio migrado correctamente. Ahora puedes importar plantillas."
+
+#: includes/API/Sites.php:81
+msgid "Site migration failed."
+msgstr "La migración del sitio ha fallado."
+
+#: includes/API/Sites.php:38
+msgid "API key is required for site migration."
+msgstr "La clave de API es necesaria para la migración del sitio."
+
+#: modules/template-customizer/REST/LogoGeneration.php:492
+msgid "Logo generation data retrieved successfully."
+msgstr "Datos de generación del logotipo recuperados correctamente."
+
+#: modules/full-site-import/Utils/AIUtils.php:315
+#: modules/template-customizer/REST/LogoGeneration.php:447
+msgid "Process ID is required for logo polling."
+msgstr "El ID del proceso es necesario para la consulta del logotipo."
+
+#: modules/template-customizer/REST/LogoGeneration.php:427
+msgid "Logo generation data not found."
+msgstr "No se encontraron datos de generación del logotipo."
+
+#: modules/template-customizer/REST/LogoGeneration.php:420
+msgid "Logo generation in progress"
+msgstr "Generación del logotipo en curso"
+
+#: modules/template-customizer/REST/LogoGeneration.php:325
+msgid "Logo generation completed successfully."
+msgstr "Generación del logotipo completada correctamente."
+
+#: modules/template-customizer/REST/LogoGeneration.php:231
+msgid "Logo generation started"
+msgstr "Generación del logotipo iniciada"
+
+#: modules/template-customizer/REST/LogoGeneration.php:169
+msgid "Invalid quantity. Must be between 1 and 10"
+msgstr "Cantidad no válida. Debe estar entre 1 y 10"
+
+#: modules/template-customizer/REST/LogoGeneration.php:159
+msgid "Invalid output format. Allowed values: png, jpeg"
+msgstr "Formato de salida no válido. Valores permitidos: png, jpeg"
+
+#: modules/template-customizer/REST/LogoGeneration.php:148
+msgid "Invalid quality parameter. Allowed values: auto, high, medium, low"
+msgstr "Parámetro de calidad no válido. Valores permitidos: auto, high, medium, low"
+
+#: modules/template-customizer/REST/LogoGeneration.php:137
+msgid "Invalid size parameter. Allowed values: auto, 1024x1024, 1536x1024, 1024x1536"
+msgstr "Parámetro de tamaño no válido. Valores permitidos: auto, 1024x1024, 1536x1024, 1024x1536"
+
+#: modules/template-customizer/REST/LogoGeneration.php:92
+#: modules/template-customizer/REST/LogoGeneration.php:280
+msgid "Invalid or expired logo generation process ID."
+msgstr "ID del proceso de generación del logotipo no válido o caducado."
+
+#: modules/auth/REST/Login.php:197
+#: modules/mcp-abilities/Abilities/AuthLoginWithApiKeyAbility.php:90
+msgid "Invalid API key."
+msgstr "Clave de API no válida."
+
+#: modules/ai-fsi/REST/AIContent.php:913 modules/ai-fsi/REST/AIContent.php:981
+msgid "Failed to generate tagline."
+msgstr "No se pudo generar la descripción corta."
+
+#: modules/ai-fsi/REST/AIContent.php:890
+msgid "Prompt is required for tagline generation."
+msgstr "Se necesita un prompt para la generación de la descripción corta."
+
+#: modules/full-site-import/Utils/SignatureVerifier.php:64
+msgid "Invalid signature"
+msgstr "Firma no válida"
+
+#: modules/full-site-import/Utils/SignatureVerifier.php:51
+msgid "Callback timestamp expired or invalid"
+msgstr "Marca de tiempo de callback caducada o no válida"
+
+#: modules/full-site-import/Utils/SignatureVerifier.php:41
+msgid "Invalid signature or timestamp headers"
+msgstr "Cabeceras de firma o marca de tiempo no válidas"
+
+#: modules/full-site-import/Utils/SignatureVerifier.php:31
+msgid "API key not provided for signature verification"
+msgstr "No se proporcionó la clave de API para la verificación de la firma"
+
+#: modules/full-site-import/Utils/AIUtils.php:110
+msgid "Invalid file path: path is outside WordPress upload directory."
+msgstr "Ruta de archivo no válida: la ruta está fuera del directorio de subidas de WordPress."
+
+#: modules/full-site-import/Utils/AIUtils.php:86
+msgid "File path does not exist or is not accessible."
+msgstr "La ruta del archivo no existe o no es accesible."
+
+#: modules/full-site-import/Utils/AIUtils.php:68
+msgid "WordPress upload directory is not accessible."
+msgstr "El directorio de subidas de WordPress no es accesible."
+
+#: modules/full-site-import/Utils/AIUtils.php:43
+msgid "Invalid %s: contains path separators."
+msgstr "%s no válido: contiene separadores de ruta."
+
+#: modules/full-site-import/Utils/AIUtils.php:31
+msgid "Invalid %s: empty or not a valid value."
+msgstr "%s no válido: está vacío o no es un valor válido."
+
+#: modules/ai-fsi/REST/AIContent.php:93
+#: modules/template-customizer/REST/LogoGeneration.php:70
+msgid "Invalid API key provided in header."
+msgstr "Clave de API no válida proporcionada en la cabecera."
+
+#: modules/ai-fsi/REST/AIContent.php:88
+msgid "Missing API key in header."
+msgstr "Falta la clave de API en la cabecera."
+
+#: modules/full-site-import/Utils/Utils.php:469
+msgid "Error uploading image."
+msgstr "Error al subir la imagen."
+
+#: modules/full-site-import/Utils/Utils.php:464
+msgid "Unable to access upload directory."
+msgstr "No se puede acceder al directorio de subidas."
+
+#: modules/full-site-import/Utils/Utils.php:453
+msgid "Unsupported image MIME type."
+msgstr "Tipo MIME de imagen no compatible."
+
+#: modules/full-site-import/Utils/Utils.php:447
+msgid "Unable to determine image MIME type."
+msgstr "No se pudo determinar el tipo MIME de la imagen."
+
+#: modules/full-site-import/Utils/Utils.php:441
+msgid "Invalid base64 data."
+msgstr "Datos base64 no válidos."
+
+#: modules/full-site-import/Utils/Utils.php:406
+msgid "Base64 is empty"
+msgstr "Base64 está vacío"
+
+#: modules/full-site-import/Runners/ElementorContent.php:125
+msgid "Default Kit"
+msgstr "Kit predeterminado"
+
+#: modules/full-site-import/Runners/ElementorContent.php:84
+#: modules/theme-builder/Widgets/Post_Comments.php:87
+msgid "Custom"
+msgstr "Personalizado"
+
+#: modules/full-site-import/Runners/Dependencies.php:357
+msgid "Required plugin \"%s\" is not active. Please refresh the page and try again."
+msgstr "El plugin necesario «%s» no está activo. Actualiza la página e inténtalo de nuevo."
+
+#: modules/full-site-import/Runners/Dependencies.php:35
+msgid "Downloading Dependencies"
+msgstr "Descargando dependencias"
+
+#: modules/template-browsing/REST/Items.php:250
+msgid "Items id cannot be empty."
+msgstr "El ID de los elementos no puede estar vacío."
+
+#: modules/ai-fsi/REST/AIContent.php:962
+#: modules/template-customizer/REST/LogoGeneration.php:210
+msgid "API returned an unexpected response."
+msgstr "La API devolvió una respuesta inesperada."
+
+#: modules/ai-fsi/REST/AIContent.php:952 modules/ai-fsi/REST/AIContent.php:1199
+msgid "Invalid response from API."
+msgstr "Respuesta no válida de la API."
+
+#: modules/template-customizer/REST/LogoGeneration.php:126
+msgid "Description is required for logo generation."
+msgstr "Se necesita una descripción para la generación del logotipo."
+
+#: modules/theme-builder/Types/FluentProductSingle.php:15
+msgid "Fluent Cart Products Single"
+msgstr "Producto individual de Fluent Cart"
+
+#: modules/theme-builder/Types/FluentProductSingle.php:11
+msgid "Fluent Cart Product Single"
+msgstr "Producto individual de Fluent Cart"
+
+#: modules/theme-builder/Widgets/Post_Comments.php:171
+#: assets/js/templately.js:2
+msgid "No"
+msgstr "No"
+
+#: modules/theme-builder/Widgets/Post_Comments.php:170
+#: assets/js/templately.js:2
+msgid "Yes"
+msgstr "Sí"
+
+#: modules/full-site-import/Utils/AIUtils.php:1477
+msgid "AI page IDs missing from process data."
+msgstr "Faltan los IDs de página de IA en los datos del proceso."
+
+#: modules/full-site-import/Utils/AIUtils.php:1473
+msgid "Session ID missing from process data."
+msgstr "Falta el ID de sesión en los datos del proceso."
+
+#: modules/full-site-import/Utils/AIUtils.php:1468
+msgid "Process ID not found."
+msgstr "No se encontró el ID del proceso."
+
+#: modules/full-site-import/Utils/AIUtils.php:1463
+msgid "Process ID is required."
+msgstr "El ID del proceso es obligatorio."
+
+#: modules/template-browsing/REST/Items.php:627
+msgid "Type cannot be empty."
+msgstr "El tipo no puede estar vacío."
+
+#: modules/template-browsing/REST/Items.php:618
+msgid "Item ID cannot be empty."
+msgstr "El ID del elemento no puede estar vacío."
+
+#: modules/image-replace/REST/ImageSearch.php:99
+msgid "Search query is required."
+msgstr "Se necesita una consulta de búsqueda."
+
+#: modules/ai-fsi/REST/AIContent.php:742
+msgid "Failed to write XML content to temporary file."
+msgstr "No se pudo escribir el contenido XML en el archivo temporal."
+
+#: modules/ai-fsi/REST/AIContent.php:735
+msgid "Failed to create temporary file."
+msgstr "No se pudo crear el archivo temporal."
+
+#: modules/ai-fsi/REST/AIContent.php:714
+msgid "An unexpected error occurred while fetching attachments."
+msgstr "Se produjo un error inesperado al obtener los archivos adjuntos."
+
+#: modules/ai-fsi/REST/AIContent.php:710
+msgid "Found %d attachments."
+msgstr "Se encontraron %d archivos adjuntos."
+
+#: modules/ai-fsi/REST/AIContent.php:701
+msgid "Failed to parse XML content."
+msgstr "No se pudo analizar el contenido XML."
+
+#: modules/ai-fsi/REST/AIContent.php:694
+msgid "No XML content found in API response."
+msgstr "No se encontró contenido XML en la respuesta de la API."
+
+#. translators: %d: HTTP status code returned by the API.
+#: modules/ai-fsi/REST/AIContent.php:1368
+msgid "API returned HTTP %d error."
+msgstr "La API devolvió el error HTTP %d."
+
+#: modules/ai-fsi/REST/AIContent.php:667
+msgid "Pack ID or ID parameter is required."
+msgstr "Se necesita el ID del paquete o el parámetro ID."
+
+#: modules/ai-fsi/REST/AIContent.php:929 modules/ai-fsi/REST/AIContent.php:941
+#: modules/ai-fsi/REST/AIContent.php:1208
+msgid "Something went wrong. Please try again or contact support."
+msgstr "Algo salió mal. Inténtalo de nuevo o ponte en contacto con el soporte."
+
+#: includes/Core/Admin.php:540
+msgid "GET PRO Lifetime Access"
+msgstr "OBTENER la versión PRO con acceso de por vida"
+
+#: includes/Core/Admin.php:532
+msgid "Get"
+msgstr "Obtener"
+
+#: modules/my-cloud/REST/MyClouds.php:114
+msgid "Missing required dependency Elementor, please install before trying again."
+msgstr "Falta la dependencia necesaria Elementor, instálala antes de volver a intentarlo."
+
+#: includes/Core/Admin.php:694
+msgid "Templates Library"
+msgstr "Biblioteca de plantillas"
+
+#: includes/Core/Admin.php:693
+msgid "Open settings page"
+msgstr "Abrir la página de ajustes"
+
+#: includes/Utils/Installer.php:179
+msgid "Sorry, you do not have permission to activate a plugin."
+msgstr "Lo siento, no tienes permisos para activar un plugin."
+
+#: modules/full-site-import/Utils/Utils.php:380
+msgid "Invalid URL"
+msgstr "URL no válida"
+
+#: modules/theme-builder/Widgets/Featured_Image.php:196
+#: modules/theme-builder/Widgets/Site_Logo.php:222 assets/js/templately.js:2
+#: assets/js/templately.js:13 assets/js/templately.js:17
+#: assets/js/templately.js:23
+msgid "Default"
+msgstr "Por defecto"
+
+#: modules/theme-builder/Widgets/Featured_Image.php:168
+#: modules/theme-builder/Widgets/Site_Logo.php:194
+msgid "Height"
+msgstr "Altura"
+
+#: modules/theme-builder/Widgets/Featured_Image.php:133
+#: modules/theme-builder/Widgets/Site_Logo.php:159
+msgid "Max Width"
+msgstr "Anchura máxima"
+
+#: modules/theme-builder/Widgets/Featured_Image.php:98
+#: modules/theme-builder/Widgets/Site_Logo.php:124
+msgid "Width"
+msgstr "Anchura"
+
+#: modules/theme-builder/Widgets/Post_Content.php:46
+msgid "Content"
+msgstr "Contenido"
+
+#: modules/theme-builder/Widgets/Post_Comments.php:701
+#: modules/theme-builder/Widgets/Post_Comments.php:807
+#: modules/theme-builder/Widgets/Post_Comments.php:838
+#: modules/theme-builder/Widgets/Post_Content.php:54
+#: modules/theme-builder/Widgets/Post_Title.php:85 assets/js/templately.js:2
+#: assets/js/templately.js:13
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: modules/theme-builder/Widgets/Post_Title.php:23
+msgid "Post Title"
+msgstr "Título de la entrada"
+
+#: modules/theme-builder/Widgets/Post_Title.php:55
+msgid "HTML Tag"
+msgstr "Etiqueta HTML"
+
+#: modules/theme-builder/Widgets/Site_Logo.php:22
+#: modules/theme-builder/Widgets/Site_Logo.php:47
+#: modules/theme-builder/Widgets/Site_Logo.php:54
+msgid "Site Logo"
+msgstr "Logotipo del sitio"
+
+#: modules/theme-builder/Widgets/Site_Logo.php:72
+msgid "Change Site Logo"
+msgstr "Cambiar el logotipo del sitio"
+
+#: modules/theme-builder/Widgets/Post_Title.php:48
+#: modules/theme-builder/Widgets/Post_Title.php:77
+msgid "Heading"
+msgstr "Encabezado"
+
+#: modules/full-site-import/Utils/Utils.php:375
+msgid "URL is empty"
+msgstr "La URL está vacía"
+
+#: modules/theme-builder/Widgets/Post_Content.php:137
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: modules/theme-builder/Widgets/Featured_Image.php:22
+#: modules/theme-builder/Widgets/Featured_Image.php:47
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: modules/theme-builder/Widgets/Featured_Image.php:65
+#: modules/theme-builder/Widgets/Site_Logo.php:91
+msgid "Image"
+msgstr "Imagen"
+
+#: modules/theme-builder/Widgets/Featured_Image.php:73
+#: modules/theme-builder/Widgets/Site_Logo.php:99
+msgid "Alignment"
+msgstr "Alineación"
+
+#: includes/Utils/Installer.php:434
+msgid "Failed to install theme"
+msgstr "Error al instalar el tema"
+
+#: includes/Utils/Installer.php:164
+msgid "Failed to install plugin"
+msgstr "Fallo al instalar el plugin"
+
+#: includes/Utils/Installer.php:399
+msgid "Theme is already active"
+msgstr "El tema ya está activo"
+
+#: includes/Utils/Installer.php:449 includes/Utils/Installer.php:539
+msgid "Failed to activate theme"
+msgstr "Error al activar el tema"
+
+#: modules/full-site-import/Utils/Utils.php:39
+msgid "JSON file not exists. "
+msgstr "El archivo JSON no existe. "
+
+#: modules/full-site-import/Runners/Templates.php:24
+msgid "Importing Templates (i.e: Header, Footer, etc)"
+msgstr "Importación de plantillas (es decir, cabecera, pie de página, etc)"
+
+#: modules/full-site-import/Runners/Taxonomies.php:25
+msgid "Importing Taxonomies"
+msgstr "Importación de taxonomías"
+
+#: modules/full-site-import/Runners/Taxonomies.php:13
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: modules/full-site-import/Runners/GutenbergContent.php:20
+msgid "Block Editor Content"
+msgstr "Contenido del editor de bloques"
+
+#: modules/full-site-import/Runners/Finalizer.php:40
+#: modules/full-site-import/Runners/Finalizer.php:44
+msgid "Finalizing Your Imports"
+msgstr "Finalizando tus importaciones"
+
+#: modules/full-site-import/Runners/ExtraContent.php:30
+msgid "Importing Forms and Others Extra Contents"
+msgstr "Importación de formularios y otros contenidos adicionales"
+
+#: modules/full-site-import/Runners/ExtraContent.php:18
+msgid "Extra Contents"
+msgstr "Contenidos adicionales"
+
+#: modules/full-site-import/Runners/Customizer.php:30
+#: modules/full-site-import/Runners/DownloadZip.php:41
+msgid "Updating customizer settings."
+msgstr "Actualización de los ajustes del personalizador."
+
+#: modules/full-site-import/Runners/Customizer.php:18
+msgid "Customizer"
+msgstr "Personalizador"
+
+#: modules/full-site-import/Runners/BaseRunner.php:75
+msgid "Platform is not specified. Please try again after specifying the platform."
+msgstr "La plataforma no está especificada. Inténtalo de nuevo después de especificar la plataforma."
+
+#: modules/full-site-import/Runners/WPContent.php:25
+msgid "WordPress Contents"
+msgstr "Contenidos de WordPress"
+
+#: modules/full-site-import/Concerns/DownloadsPack.php:44
+msgid "Permission Passed"
+msgstr "Permiso aprobado"
+
+#: modules/full-site-import/Concerns/DownloadsPack.php:32
+msgid "Upload directory is not writable."
+msgstr "No se puede escribir en el directorio de carga."
+
+#: modules/full-site-import/Concerns/LogHelper.php:49 assets/js/templately.js:2
+msgid "Oops!"
+msgstr "¡Vaya!"
+
+#: includes/Core/Admin.php:63
+msgid "All Templates"
+msgstr "Todas las plantillas"
+
+#: includes/Core/Admin.php:60
+msgid "New Template"
+msgstr "Nueva plantilla"
+
+#: includes/Core/Admin.php:58
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/Core/Admin.php:57
+msgctxt "Add New on Toolbar"
+msgid "Book"
+msgstr "Reservar"
+
+#: includes/Core/Admin.php:56
+msgctxt "Admin Menu text"
+msgid "Theme Builder"
+msgstr "Constructor de temas"
+
+#: includes/Core/Admin.php:55
+msgctxt "Post type singular name"
+msgid "Theme Builder"
+msgstr "Constructor de temas"
+
+#: includes/Core/Admin.php:54
+msgctxt "Post type general name"
+msgid "Theme Builders"
+msgstr "Constructores de temas"
+
+#: modules/theme-builder/Types/Single.php:15
+msgid "Singles"
+msgstr "Individuales"
+
+#: modules/theme-builder/Types/Search.php:16
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: modules/theme-builder/Types/Post.php:15
+msgid "Posts"
+msgstr "Entradas"
+
+#: modules/theme-builder/Types/Post.php:11
+msgid "Post"
+msgstr "Entrada"
+
+#: includes/Core/Admin.php:65
+msgid "Parent Templates:"
+msgstr "Plantillas principales:"
+
+#: includes/Core/Admin.php:64 assets/js/templately.js:13
+msgid "Search Templates"
+msgstr "Buscar plantillas"
+
+#: includes/Core/Admin.php:59 assets/js/templately.js:25
+msgid "Add New Template"
+msgstr "Añadir nueva plantilla"
+
+#: modules/theme-builder/Types/Search.php:12
+msgid "Search Result"
+msgstr "Resultado de la búsqueda"
+
+#: modules/theme-builder/Types/ProductSingle.php:15
+msgid "Products Single"
+msgstr "Productos individuales"
+
+#: modules/theme-builder/Types/ProductSingle.php:11
+msgid "Product Single"
+msgstr "Producto único"
+
+#: modules/theme-builder/Types/ProductArchive.php:15
+msgid "Product Archives"
+msgstr "Archivos de los productos"
+
+#: modules/theme-builder/Types/ProductArchive.php:11
+msgid "Product Archive"
+msgstr "Archivo de los productos"
+
+#: modules/theme-builder/Types/Page.php:14
+#: modules/theme-builder/Widgets/Post_Content.php:141
+msgid "Page"
+msgstr "Página"
+
+#: modules/theme-builder/Types/Header.php:16
+msgid "Headers"
+msgstr "Cabeceras"
+
+#: modules/theme-builder/Types/Footer.php:16
+msgid "Footers"
+msgstr "Pies de página"
+
+#: modules/theme-builder/Types/Error.php:15
+msgid "404 Error Pages"
+msgstr "404 página de error"
+
+#: modules/theme-builder/Types/CourseSingle.php:15
+msgid "Courses Single"
+msgstr "Cursos individuales"
+
+#: modules/theme-builder/Types/CourseSingle.php:11
+msgid "Course Single"
+msgstr "Curso individual"
+
+#: modules/theme-builder/Types/CourseArchive.php:15
+msgid "Course Archives"
+msgstr "Archivos del curso"
+
+#: modules/full-site-import/WPImport.php:1493
+msgid "Zero size file downloaded"
+msgstr "Descargado un archivo de tamaño cero"
+
+#: modules/full-site-import/WPImport.php:1485
+msgid "Remote server did not respond"
+msgstr "El servidor remoto no ha respondido"
+
+#. translators: 1: HTTP error message, 2: HTTP error code.
+#: modules/full-site-import/WPImport.php:1476
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr "El servidor remoto ha devuelto el siguiente resultado inesperado: %1$s (%2$s)"
+
+#: modules/full-site-import/WPImport.php:1548
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Lo siento, este tipo de archivo no está permitido por razones de seguridad."
+
+#: modules/full-site-import/WPImport.php:1508
+msgid "Remote file is too large, limit is %s"
+msgstr "El archivo remoto es demasiado grande, el límite es de %s"
+
+#: modules/full-site-import/WPImport.php:1499
+msgid "Downloaded file has incorrect size"
+msgstr "El archivo descargado tiene un tamaño incorrecto"
+
+#: modules/full-site-import/WPImport.php:1320
+msgid "Invalid file type"
+msgstr "Tipo de archivo no válido"
+
+#: modules/full-site-import/WPImport.php:1572
+msgid "The uploaded file could not be moved"
+msgstr "El archivo subido no se ha podido mover"
+
+#. translators: 1: WordPress error message, 2: WordPress error code.
+#: modules/full-site-import/WPImport.php:1468
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr "Ha fallado la solicitud debido a un error: %1$s (%2$s)"
+
+#: modules/full-site-import/WPImport.php:1424
+msgid "Could not create temporary file."
+msgstr "No se ha podido crear el archivo temporal."
+
+#. translators: 1: Term taxonomy, 2: Term name.
+#. translators: 1: Post type singular label, 2: Post title.
+#. translators: 1: Taxonomy name, 2: Term name.
+#: modules/full-site-import/WPImport.php:550
+#: modules/full-site-import/WPImport.php:859
+#: modules/full-site-import/WPImport.php:913
+msgid "Failed to import %1$s %2$s"
+msgstr "Error al importar %1$s %2$s"
+
+#: modules/full-site-import/WPImport.php:309
+msgid "The file does not exist, please try again."
+msgstr "El archivo no existe. Por favor, inténtalo de nuevo."
+
+#: modules/full-site-import/Concerns/DownloadsPack.php:186
+#: modules/full-site-import/Runners/DownloadZip.php:199
+msgid "Downloading Failed. Please try again"
+msgstr "Error de descarga. Vuelve a intentarlo"
+
+#: modules/full-site-import/Concerns/DownloadsPack.php:135
+#: modules/full-site-import/Runners/DownloadZip.php:157
+msgid "Template pack download failed. "
+msgstr "La descarga del paquete de plantillas ha fallado. "
+
+#: modules/my-cloud/REST/SavedTemplates.php:29
+msgid "Sorry, you do not have permission to delete this template."
+msgstr "Lo siento, no tienes permisos para eliminar esta plantilla."
+
+#: modules/elementor-integration/Platform/Elementor.php:105
+msgid "You have to install/activate %s to import %s Template."
+msgstr "Tienes que instalar/activar %s para importar la plantilla %s."
+
+#: modules/full-site-import/Runners/Templates.php:20 assets/js/templately.js:16
+#: assets/js/templately.js:24
+msgid "Templates"
+msgstr "Plantillas"
+
+#: includes/Core/Admin.php:62 assets/js/templately.js:13
+#: assets/js/templately.js:16
+msgid "View Template"
+msgstr "Ver plantilla"
+
+#: modules/theme-builder/Source.php:321 assets/js/templately.js:2
+#: assets/js/templately.js:13 assets/js/templately.js:17
+#: assets/js/templately.js:20 assets/js/templately.js:23
+#: assets/js/templately.js:33
+msgid "All"
+msgstr "Todo"
+
+#: modules/theme-builder/Types/Page.php:18 assets/js/templately.js:16
+#: assets/js/templately.js:17 assets/js/templately.js:24
+#: assets/js/templately.js:25
+msgid "Pages"
+msgstr "Páginas"
+
+#: modules/mcp-server/Auth/OAuth/ConsentScreen.php:405 assets/js/ai-editor.js:5
+#: assets/js/templately.js:1 assets/js/templately.js:2
+#: assets/js/templately.js:13 assets/js/templately.js:16
+#: assets/js/templately.js:17 assets/js/templately.js:31
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/Core/Admin.php:61 assets/js/templately.js:16
+msgid "Edit Template"
+msgstr "Editar la plantilla"
+
+#: modules/theme-builder/Widgets/Post_Comments.php:1176
+#: assets/js/post-import-feedback.js:1 assets/js/templately.js:2
+#: assets/js/templately.js:16
+msgid "Email"
+msgstr "Correo electrónico"
+
+#. Description of the plugin
+#: templately.php
+msgid "The Best Templates Cloud for Elementor & Gutenberg. Get access to stunning templates, WorkSpace, Cloud Library & many more."
+msgstr "La mejor nube de plantillas para Elementor y Gutenberg. Obtén acceso a impresionantes plantillas, espacio de trabajo, biblioteca en la nube y mucho más."
+
+#: includes/Utils/Installer.php:155
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "No ha sido posible conectar con el sistema de archivos. Por favor, confirma tus credenciales."
+
+#: modules/single-import/REST/Dependencies.php:143
+msgid "You have the plugin installed."
+msgstr "Tienes el plugin instalado."
+
+#: includes/Utils/Base.php:31 includes/Utils/Base.php:42
+#: modules/template-browsing/REST/Items.php:429
+#: modules/theme-builder/Types/BaseTemplate.php:231 assets/js/templately.js:1
+#: assets/js/templately.js:17 assets/js/templately.js:30
+#: assets/js/templately.js:31
+msgid "Something went wrong."
+msgstr "Algo ha ido mal."
+
+#: modules/auth/REST/Login.php:119 modules/auth/REST/SignUp.php:41
+msgid "Make sure you have given a valid email address."
+msgstr "Asegúrate de que has dado una dirección de correo electrónico válida."
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: templately.php includes/Core/Admin.php:668
+#: modules/block-patterns/PatternRegistrar.php:341
+#: modules/gutenberg-integration/Platform/Gutenberg.php:111
+#: modules/mcp-server/Auth/OAuth/ConsentScreen.php:617
+#: modules/mcp-server/Auth/OAuth/ConsentScreen.php:625
+#: modules/site-editor-views/Fields.php:97
+#: modules/theme-builder/ThemeBuilder.php:279
+#: modules/wp-abilities-api/Adapters/AbilitiesBridge.php:59
+#: modules/wp-abilities-api/Adapters/McpAdapterBridge.php:86 views/header.php:7
+#: assets/js/elementor.js:1 assets/js/site-editor-views.js:1
+#: assets/js/templately.js:11 assets/js/templately.js:13
+msgid "Templately"
+msgstr "Templately"
+
+#. Plugin URI of the plugin
+#: templately.php
+msgid "https://templately.com"
+msgstr "https://templately.com"
+
+#. Author URI of the plugin
+#: templately.php
+msgid "https://templately.com/"
+msgstr "https://templately.com/"
+
+#: includes/Core/Admin.php:669
+msgid "requires"
+msgstr "necesita que"
+
+#: includes/Core/Admin.php:671
+msgid "plugin to be installed and activated. Please install Elementor to continue."
+msgstr "sea instalado y activado. Por favor, instala Elementor para continuar."
+
+#: views/header.php:10
+msgid "Version"
+msgstr "Versión"
+
+#: modules/elementor-integration/Platform/Elementor.php:212
+msgid "Successfully Deleted."
+msgstr "Borrado correctamente."
+
+#: includes/Core/Admin.php:670
+#: modules/full-site-import/Runners/ElementorContent.php:25
+#: modules/single-import/REST/Dependencies.php:113 assets/js/templately.js:16
+#: assets/js/templately.js:24 assets/js/templately.js:25
+msgid "Elementor"
+msgstr "Elementor"
+
+#: modules/auth/REST/Login.php:123
+msgid "Password field cannot be empty."
+msgstr "El campo de la contraseña no puede estar vacío."
