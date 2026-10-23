@@ -1,6 +1,7 @@
 .env
 wp-config.php
-backups/
+backups/*
+!backups/dev.sql
 wp-content/uploads/
 wp-content/cache/
 wp-content/upgrade/
